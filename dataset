@@ -1,0 +1,11 @@
+CustomerID	Gender	Age	SubscriptionType	MonthlyCharges	TenureMonths	TotalCharges	ContractType	PaymentMethod	Churn
+C001	Female	23	Basic	299	3	879	Month-to-Month	UPI	Yes
+C002	 Male	35	Premium	799	24	19176	Yearly	Credit Card	No
+C003	Female	29	Standard	499	8	3992	Month-to-Month	Debit Card	Yes
+C004	 Male	41	Premium	799	36	28764	Yearly	Credit Card	No
+C005	Female	31	Basic	299	2	598	Month-to-Month	Cash	Yes
+C006	 Male	27	 Standard	499	14	6986	Quarterly	UPI	No
+C007	Female	45	Premium	799	6	4794	Month-to-Month	Debit Card	Yes
+C008	 Male	39	Standard	499	18	8982	Yearly	Credit Card	No
+C009	Female	22	Basic	299	1	299	Month-to-Month	UPI	Yes
+C010	 Male	50	Premium	799	48	38352	Yearly	Net Bankin	No
